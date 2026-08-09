@@ -1,20 +1,24 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20There,%20I'm%20%5BYOUR_NAME%5D%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20GenAI%20Enthusiast%20%7C%20Cloud%20Learner&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20There,%20I'm%20Prem%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20GenAI%20Enthusiast%20%7C%20Cloud%20Learner&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;AI+%2F+GenAI+%2F+RAG+Explorer+%F0%9F%A4%96;DSA+%26+Problem+Solver+%F0%9F%A7%A9;Building+Things+That+Matter+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Prem+%F0%9F%91%8B;Computer+Engineering+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;AI+%2F+GenAI+%2F+RAG+Explorer+%F0%9F%A4%96;DSA+%26+Problem+Solver+%F0%9F%A7%A9;Building+Things+That+Matter+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
+
+<img src="https://img.shields.io/badge/status-🟢_Currently_Active-brightgreen?style=for-the-badge" alt="active status"/>
+
+<br/><br/>
 
 > 💡 *"Turning ☕ into 💻, and ideas into products."*
 
 <br/>
 
-<img src="https://profile-counter.glitch.me/[YOUR_USERNAME]/count.svg" alt="visitor badge" />
+<img src="https://profile-counter.glitch.me/yprem1225/count.svg" alt="visitor badge" />
 
 </div>
 
@@ -51,7 +55,7 @@ career_objective: >
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yprem1225&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
 
 </td>
 </tr>
@@ -127,14 +131,20 @@ building software that blends clean engineering with intelligent, AI-powered fea
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?yprem1225=[yprem1225]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?yprem1225=[yprem1225]&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yprem1225&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yprem1225&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[yprem1225]&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YOUR_USERNAME]&theme=tokyonight" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yprem1225&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yprem1225&theme=tokyonight" width="49%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[yprem1225]&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yprem1225&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
+</div>
+
+### 📅 Contribution Calendar
+
+<div align="center">
+<img src="https://ghchart.rshah.org/58A6FF/yprem1225" alt="yprem1225's contribution graph" width="100%"/>
 </div>
 
 <details>
@@ -142,10 +152,10 @@ building software that blends clean engineering with intelligent, AI-powered fea
 <br/>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=[YOUR_USERNAME]&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=[YOUR_USERNAME]&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=[YOUR_USERNAME]&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=[YOUR_USERNAME]&theme=tokyonight&utcOffset=5.5" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yprem1225&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yprem1225&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yprem1225&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yprem1225&theme=tokyonight&utcOffset=5.5" width="49%"/>
 </div>
 
 </details>
@@ -153,7 +163,7 @@ building software that blends clean engineering with intelligent, AI-powered fea
 ### 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=[YOUR_USERNAME]&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yprem1225&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
 </div>
 
 ---
@@ -161,7 +171,7 @@ building software that blends clean engineering with intelligent, AI-powered fea
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/yprem1225/yprem1225/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 > ⚙️ Powered by GitHub Actions — see the **Setup Instructions** section below for the workflow file that generates this automatically.
@@ -174,7 +184,7 @@ building software that blends clean engineering with intelligent, AI-powered fea
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [WorkPort AI](https://github.com/[YOUR_USERNAME]/workport-ai)
+### 🧠 [WorkPort AI](https://github.com/yprem1225/workport-ai)
 **AI-Powered Freelancer Marketplace**
 
 An intelligent marketplace connecting clients and freelancers, featuring secure escrow payments, real-time notifications, and an AI-driven recommendation engine that matches freelancers to relevant projects.
@@ -340,8 +350,8 @@ Now   ──●── Building production-grade full-stack + AI projects 🚀
 ## 📈 GitHub Metrics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=[YOUR_USERNAME]&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&theme=react-dark&hide_border=true&custom_title=Commit%20Activity" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yprem1225&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yprem1225&theme=react-dark&hide_border=true&custom_title=Commit%20Activity" width="49%"/>
 </div>
 
 ---
@@ -356,7 +366,7 @@ Now   ──●── Building production-grade full-stack + AI projects 🚀
 <a href="mailto:[EMAIL]">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/[YOUR_USERNAME]" target="_blank">
+<a href="https://github.com/yprem1225" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://[PORTFOLIO_URL]" target="_blank">
@@ -414,7 +424,7 @@ Now   ──●── Building production-grade full-stack + AI projects 🚀
 
 <div align="center">
 
-<a href="https://www.buymeacoffee.com/[YOUR_USERNAME]" target="_blank">
+<a href="https://www.buymeacoffee.com/yprem1225" target="_blank">
 <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
 </a>
 
@@ -430,6 +440,6 @@ If you found any of my projects useful, consider giving them a ⭐ — it means 
 
 **Thanks for stopping by! Let's build something great together. 🚀**
 
-<img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20Views&color=58A6FF&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=yprem1225&label=Profile%20Views&color=58A6FF&style=flat" />
 
 </div>
