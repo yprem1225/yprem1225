@@ -127,13 +127,13 @@ building software that blends clean engineering with intelligent, AI-powered fea
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?yprem1225=[yprem1225]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?yprem1225=[yprem1225]&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=[yprem1225]&theme=tokyonight&hide_border=true" width="49%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YOUR_USERNAME]&theme=tokyonight" width="49%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=[yprem1225]&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
