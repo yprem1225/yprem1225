@@ -18,7 +18,6 @@
 
 <br/>
 
-<img src="https://profile-counter.glitch.me/yprem1225/count.svg" alt="visitor badge" />
 
 </div>
 
@@ -31,9 +30,9 @@
 <td width="60%" valign="top">
 
 ```yaml
-name: "[YOUR_NAME]"
+name: "  PREM YADAVA"
 role: "Aspiring Full Stack Developer & AI Engineer"
-location: "[YOUR_LOCATION], India 🇮🇳"
+location: "Mumbai , India 🇮🇳"
 education: "B.E./B.Tech in Computer Engineering"
 passionate_about:
   - Full Stack Web Development 🌐
@@ -41,7 +40,6 @@ passionate_about:
   - Cloud Computing ☁️
   - Data Structures & Algorithms 🧩
 currently_learning:
-  - React ⚛️
   - Spring Boot 🍃
   - AWS ☁️
   - Docker 🐳
@@ -55,7 +53,7 @@ career_objective: >
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yprem1225&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
+
 
 </td>
 </tr>
@@ -77,6 +75,7 @@ building software that blends clean engineering with intelligent, AI-powered fea
 <p align="left">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
@@ -99,6 +98,8 @@ building software that blends clean engineering with intelligent, AI-powered fea
 ### 🗄️ Database
 <p align="left">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 ### 🧰 Tools
@@ -141,12 +142,6 @@ building software that blends clean engineering with intelligent, AI-powered fea
 
 </div>
 
-### 📅 Contribution Calendar
-
-<div align="center">
-<img src="https://ghchart.rshah.org/58A6FF/yprem1225" alt="yprem1225's contribution graph" width="100%"/>
-</div>
-
 <details>
 <summary>📈 <b>Detailed Contribution & Language Summary Cards (click to expand)</b></summary>
 <br/>
@@ -160,19 +155,6 @@ building software that blends clean engineering with intelligent, AI-powered fea
 
 </details>
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yprem1225&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/yprem1225/yprem1225/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
 
 > ⚙️ Powered by GitHub Actions — see the **Setup Instructions** section below for the workflow file that generates this automatically.
 
