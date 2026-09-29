@@ -30,7 +30,7 @@
 <td width="60%" valign="top">
 
 ```yaml
-name: "  PREM YADAVA"
+name: "  PREM YADAV"
 role: "Aspiring Full Stack Developer & AI Engineer"
 location: "Mumbai , India 🇮🇳"
 education: "B.E./B.Tech in Computer Engineering"
