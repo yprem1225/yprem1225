@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-> 💡 *"Turning ☕ into 💻, and ideas into products."*
+> 💡 *"Turning ☕ into 💻, and ideas into products"*
 
 <br/>
 
